@@ -1,2 +1,1 @@
-# Surgical_Hackathon
-collaborative exploration, where engineers and medical professionals come together to understand how technology can support real-world surgical operations
+This is the repo containing the core logic of the solution of problem statement no.9 of Surgical IntraOp Hackathon conducted at Tinkerspace Kochi
